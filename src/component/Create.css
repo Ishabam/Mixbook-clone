@@ -1,0 +1,43 @@
+.create {
+    display : flex;
+    /* float : left; */
+    /* border : 2px solid black; */
+    padding : 50px;
+    background : #f5fffc;
+    /* height : 500px */
+}
+
+.createLeft {
+    /* margin: auto; */
+    /* border : 2px solid red; */
+    width : 45%;
+    color: #5a5c5b;
+    padding : 50px 40px 50px 160px
+}
+.createLeft h1{
+    font-weight : 400;
+    font-size : 2.4rem
+}
+
+.createLeft p {
+    /* border : 2px solid ; */
+    width : 80%
+}
+
+.createLeft button {
+    padding: 10px;
+    border : none;
+    border-radius: 5px;
+    font-size : 1rem;
+    font-weight : 600;
+    color : white;
+    background: #fab9bd
+}
+
+.createLeft button:hover {
+    background: red
+}
+
+.createRight img {
+    height : 400px
+}

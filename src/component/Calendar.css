@@ -1,0 +1,43 @@
+.calendarMains{
+    align-items : center;
+}
+.calendarMains h2 {
+    position : relative;
+    top: 20px;
+    text-align : center;
+    font-weight : 400;
+    font-size : 2.6rem
+}
+.CalendarDiv {
+    /* border : 2px solid green; */
+    display : flex;
+    /* float: left; */
+    margin: 5px 30px;
+    position : relative;
+    left : 60px;
+    text-align : center
+}
+.CCard {
+    margin: 20px 20px
+}
+
+.CCard img {
+    height: 280px;
+    width : 280px
+}
+.CCard div {
+    position : relative;
+    /* border : 2px solid red; */
+    height : 40px;
+    font-size : 1.2rem;
+    font-weight: 500;
+    padding-top : 10px;
+    background : white;
+    top : -55px;
+    opacity : 0.9
+}
+
+.CCard:hover div {
+    color : #6fd2e3
+    
+}

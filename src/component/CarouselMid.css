@@ -1,0 +1,36 @@
+.CarouselMid {
+    margin : 50px 100px
+}
+
+.comp {
+    display : flex;
+    height : 550px;
+    width : 1300px;
+    margin : auto;
+    background : #fae1f0;
+}
+
+.compRight {
+    
+    padding : 150px 50px;
+}
+
+.compRight h1 {
+    font-size: 2rem;
+    font-weight : 400
+}
+
+.compRight button {
+    margin-top : 20px;
+    padding: 15px;
+    border : none;
+    border-radius: 5px;
+    font-size : 1.2rem;
+    font-weight : 600;
+    color : white;
+    background: red
+}
+
+.compRight button:hover {
+    background: #fab9bd
+}

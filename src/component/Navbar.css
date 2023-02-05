@@ -1,0 +1,103 @@
+.navbarPink {
+    background : #f5d5e4;
+    text-align: center;
+    padding-top : 3px;
+    padding-bottom: 3px;
+    height : 20px;
+    font-size : 0.9rem;
+}
+.navbarGray {
+    display : flex;
+    justify-content : space-between;
+    padding: 5px 90px;
+    font-size : 0.8rem;
+    background: #e8e8e8
+}
+.navbarGrayLeft span {
+    font-weight : 700
+}
+.navbarGrayLeft button {
+    margin-left : 10px
+}
+.navbarGrayLeft button:hover {
+    color :#6fd2e3;
+    border :1px solid #6fd2e3
+}
+.navbarGrayLeft .navbarDetails {
+    font-weight: 400;
+    text-decoration: underline;
+    margin : 2px
+}
+.navbarGrayLeft .navbarDetails:hover {
+    color :#6fd2e3
+}
+.navbarGrayRight:hover {
+    color :#6fd2e3
+}
+.navbarMain {
+    display : flex;
+    float : left;
+    width : 100%;
+    justify-content: space-around;
+    /* margin-bottom : 10px; */
+    /* height : 70px */
+    /* border : 2px solid black */
+}
+
+.navbarMainLeft {
+    display : flex;
+    float : left;
+    width : 70%;
+    /* justify-content: space-around; */
+    /* padding : 30px; */
+    /* border: 2px solid red; */
+}
+
+.navbarMainLeft .navbarImg img {
+    height : 90px;
+    padding-left: 50px;
+    /* border : 2px solid pink; */
+}
+
+.navbarMainLeft div {
+    /* border : 2px solid green; */
+    padding-top: 30px;
+    padding-left : 20px;
+    font-size : 1rem;
+    font-weight : 500
+}
+.navbarMainLeft div:hover {
+    color : #6fd2e3
+}
+
+.navabarMainRight {
+    display : flex;
+    float : left;
+    width : 20%;
+    /* padding : 30px; */
+    /* border: 2px solid blue; */
+    /* justify-content: space-around; */
+}
+
+.navabarMainRight div {
+    /* border : 2px solid green; */
+    padding-top: 30px;
+    padding-left : 20px;
+    font-size : 1rem;
+    font-weight : 500;
+}
+.navabarMainRight div:hover {
+    color : #6fd2e3
+}
+
+.navabarMainRight img {
+    height : 30px;
+    margin : auto
+}
+
+.navabarMainRight .navbarSignUp {
+    font-weight : 800;
+    color : #6fd2e3
+}
+
+

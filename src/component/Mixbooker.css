@@ -1,0 +1,36 @@
+.Mixbooker {
+    /* border: 2px solid black; */
+    text-align : center
+}
+
+.Mixbooker h1 {
+    font-size : 2.6rem;
+    font-weight : 400
+}
+
+.Mixbooker button {
+    background : #1bc4ab;
+    color: white;
+    font-weight : 700;
+    font-size : 1.2rem;
+    padding : 20px;
+    border: none;
+    border-radius : 5px;
+    margin: 30px;
+
+}
+
+.Mixbooker button:hover {
+    background: #90d6cc
+}
+
+.MixbookCar {
+    padding: 20px;
+    /* background: black */
+}
+
+.MixbookCar img{
+    padding : 15px;
+    height: 300px;
+    width : 300px
+}

@@ -1,0 +1,38 @@
+.Banner1 {
+    display : flex;
+    margin : 180px
+}
+
+.Banner1Left {
+    padding-right : 70px;
+    /* width : 60% */
+}
+
+.Banner1Left h2 {
+    font-size : 2.4rem;
+    font-weight : 400
+}
+
+.Banner1Left button {
+    background : #1bc4ab;
+    color: white;
+    font-weight : 700;
+    font-size : 1.2rem;
+    padding : 20px;
+    border: none;
+    border-radius : 5px;
+    margin-top: 20px
+}
+
+.Banner1Left button:hover {
+    background: #90d6cc
+}
+
+.Banner1Right {
+    width : 50%;
+    margin-right : 100px
+}
+.Banner1Right img {
+    height : 450px;
+    width : 48vw
+}
